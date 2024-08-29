@@ -1,0 +1,22 @@
+body {
+    font-size: 15pt;
+    background: #6B6C78;
+    
+}
+
+.ligne{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+
+input{
+  display: flex;
+  justify-content: center;
+}
