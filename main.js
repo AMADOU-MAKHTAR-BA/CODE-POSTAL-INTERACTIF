@@ -33,7 +33,7 @@ fetch(url).then(response=>response.json()
   }
 });
 
-    console.log('76370');
+   // console.log('76370');
 
  
    
