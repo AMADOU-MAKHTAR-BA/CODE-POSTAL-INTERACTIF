@@ -23,7 +23,7 @@ fetch(url).then(response=>response.json()
         affichage +='</ul>'
   div.innerHTML = affichage;
       })).catch(erreur =>
-  div.innerHTML = 'erreur ' +  erreur 
+  div.innerHTML = 'VEILLEZ S\'IL VOUS PLAÎT VÉRIFIER VOTRE CONNEXION INTERNET' 
       )
       
     
